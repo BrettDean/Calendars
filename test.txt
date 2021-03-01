@@ -1,0 +1,1 @@
+webcal://https://raw.githubusercontent.com/Dean12321/Calendars/main/persional_cal.ics
